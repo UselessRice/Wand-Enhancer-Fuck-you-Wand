@@ -6,7 +6,7 @@
 
 </div>
 
-**In early 2026, the greedy pigs behind the multi-game trainer tool Wand (Formerly known as WeMod) introduced a 2-hour free usage time limit. This has since received nothing but backlash from the community, trainers made for singleplayer games should always been FREE to use with optional donation to the authors, the decision to monetize these tools with such an anti-consumer method should never ever be accepted. To anyone from Wand reading this, money sure doesn't stink but your rotten greed sure does, fuck you and fuck your DMCA bullshit.**
+**In early 2026, the greedy pigs behind the multi-game freemium trainer tool Wand (Formerly known as WeMod) introduced a 2-hour free usage time limit for the entire app itself despite the fact that the app already had several basic features locked behind a paywall. This has since received nothing but backlash from the community, trainers made for singleplayer games should always be FREE to use with optional monetary donation to the authors, the decision to monetize these tools with such an anti-consumer method should never ever be accepted. To anyone from Wand reading this, money sure doesn't stink but your rotten greed sure does, fuck you and fuck your DMCA bullshit.**
 
 > [!WARNING]
 > **DMCA notice.** On 2026-11-10 GitHub received a DMCA takedown notice for several files of this repository. The files named in the notice were removed from the repository and its history, so the project does not build from this repository at the moment.
